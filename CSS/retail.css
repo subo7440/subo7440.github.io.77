@@ -1,0 +1,184 @@
+/* +++++++++++++++++++++++++ 
+    TODO:零售市場 開始
++++++++++++++++++++++++++ */
+#Internet-commerce .title-block {
+    text-align: center;
+    text-align:justify;
+  }
+  #retail1 .market-product1{
+    position: relative ;
+    margin: 0 0 0 0;
+    background-size: auto;
+    
+  }
+  #retail1 .card-body{
+    width: 370px;
+    text-align: left;
+    word-wrap: break-word;
+  }
+  .card-body img{
+    width: 250px;
+    height: 210px;
+    position: absolute;
+    top: 68px;
+    right: 20px;
+  }
+  #retail1 .text1{
+    font-size: 15px;
+    margin: 5px 5px 5px 5px;
+    position: relative;
+    font-size: 26px;
+  }
+  #retail1 .market-product2{
+    position: relative ;
+    margin: 0 0 0 0;
+    background-size: auto;
+    text-align: left;
+  }
+  
+  #retail1 .introduce2{
+    width: 370px;
+    text-align: left;
+    word-wrap: break-word;
+  }
+  .market-product2 img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  #retail1 .market-product3{
+    position: relative;
+    background-size: auto;
+    font-size: 20px;
+  }
+  .container{
+    width: 900px;
+    margin: 0 auto;
+  }
+  .card1{
+    /* 設定父親定位點 */
+    position: relative;
+    width: 270px;
+    float:left;
+    margin: 10px;
+  }
+  .card1 img{
+    display: block;
+    width: 100%;
+    height: 220px;
+  }
+  .info{
+  /*   display: none; */
+    opacity: 0;
+    position: absolute;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0,.3);
+    top: 5px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top:30px;
+  }
+  .info p{
+    color: #fff;
+  }
+  .info:hover{
+    -webkit-transition: 500ms;
+    opacity: 1;
+  }
+  .ALLEY{
+    position: relative;
+  }
+  .alley{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+  }
+  .alley1{
+    opacity: 0;
+    position: absolute;
+    top: 1px;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    padding-top: 20px;
+    background-color: rgba(207, 198, 198, 0.904);
+  }
+  .alley img{
+    display: block;
+    width: 100%;
+    height: 350px;
+  }
+  .alley1:hover{
+    display: block;
+    opacity: 2;
+  }
+  .plan{
+    text-align: left;
+  }
+  #retail2 .card {
+    margin-bottom: 20px;
+  }
+  #retail2 .title-block {
+    text-align: center;
+  }
+  #retail2 .card-header {
+    text-align: center;
+    padding: 0;
+  }
+  #retail2 .card-footer {
+    text-align: center;
+    padding: 0;
+  }
+  #retail2 .card-header .card-link {
+    font-weight: 600;
+    letter-spacing: 0.125rem;
+    text-align: center;
+    display: block;
+    padding: 10px 0px 10px 0px;
+  }
+  #retail2 .card-footer .card-link {
+    text-align: center;
+    display: block;
+    padding: 0px;
+  }
+  .col-12 img{
+    width: 550px;
+    position: relative;
+    left: 150px;
+  }
+  a.card-link::before {
+    content: "\f106";
+    width: 12px;
+    font-family: "Font Awesome 5 Free" !important;
+    font-weight: 900;
+    margin-right: 1rem;
+  }
+  a.collapsed::before {
+    content: "\f103";
+    width: 12px;
+    font-family: "Font Awesome 5 Free" !important;
+    font-weight: 900;
+    margin-right: 1rem;
+  }
+  #Internet-commerce .card-body {
+    text-align: center;
+  }
+  #retail3 .it-make{
+    position: relative;
+  }
+  .it-make img{
+    position: relative;
+    width: 400px;
+    height: 300px;
+  }
+  #retail3 .it-market{
+    position: relative;
+  }
+  /* +++++++++++++++++++++++++ 
+      零售市場 結束
+  +++++++++++++++++++++++++ */
+  

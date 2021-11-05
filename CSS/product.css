@@ -1,0 +1,35 @@
+.AA{
+  width:100%;  
+  height: auto;  
+  max-height: 300px; 
+}
+.indro{
+  background-color:whitesmoke;
+}
+.A1{
+  background-color;
+  margin-top: 30px;
+  color:grey;
+  font-size:45px;
+}
+.A2{
+  font-weight:bold; 
+  color:rgb(11, 36, 13);
+  font-size: 0.6cm;
+  margin-top: 20px;
+}
+.A3{
+  font-size:30px;
+  margin-top:15px;
+}
+.A4{
+  color:tomato;
+  font-size: 60px ;
+  font-style:normal;
+  text-align: center;
+}
+.A5{background-color:teal;
+}
+.A6{
+ background-color:chocolate;
+}teal
